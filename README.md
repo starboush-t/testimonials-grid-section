@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add your solution URL here](#)
-- Live Site URL: (https://github.com/starboush-t/testimonials-grid-section)
+- Live Site URL: (https://starboush-t.github.io/testimonials-grid-section/)
 
 ## My process
 
